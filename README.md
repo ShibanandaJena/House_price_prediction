@@ -1,0 +1,3 @@
+# House_price_prediction
+
+Here the client is asking for a automated model that will predict  a price for a given set of values of attributes necessary to it. Then the algorithm will predict a price for the house. When the company compares its price with predicted price , they can determine whether they are in loss or profit or they can decide the price of any random house. In this trying out few regression model like Linear Regression ,Decision Tree , Random Forest , I found out Random forest to be best fitted model with minimum amount of accuracy whereas , Decision Tree over-fitted the model.
